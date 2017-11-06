@@ -47,14 +47,14 @@ li {
     font-size:30px;
 }
 
+/* this is for the header ^*/
+
 body{
     width: 100%;
     max-width: 1500px;
     margin: 0 auto;
-    background-image: url("file:///C:/Users/Shiquann/lc101/html-me-something/images/stars.jpg");
-    
+    background-image: url("file:///C:/Users/Shiquann/lc101/html-me-something/images/stars.jpg"); 
 }
-
 .main {
     border:solid;
     background-color:white;
