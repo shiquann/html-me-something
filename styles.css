@@ -1,0 +1,87 @@
+ul {
+    margin: 0;
+    padding: 0;
+    background-color: lightslategray;
+
+}
+
+li a {
+    display: block;
+    color: rgb(250, 250, 250);
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: black;
+}
+
+li {
+    display:inline-block;
+    border-radius: 50px;
+}
+
+/* this is for the navbar ^*/
+.header {
+    background-color:lightslategray;
+    height:400px;
+ 
+}
+
+.title {
+    margin-top:150px;
+    text-align: center;
+    font-size:70px;
+
+}
+
+.name {
+    margin-left:600px;
+    font-size:40px;
+
+}
+
+.listheader {
+    text-align: center;
+    font-size:30px;
+}
+
+body{
+    width: 100%;
+    max-width: 1500px;
+    margin: 0 auto;
+    background-image: url("file:///C:/Users/Shiquann/lc101/html-me-something/images/stars.jpg");
+    
+}
+
+.main {
+    border:solid;
+    background-color:white;
+}
+
+.picone {
+    width:700px;
+}
+
+.pictwo {
+    width:700px;
+}
+
+.picthree {
+    width:700px;
+}
+
+.picfour {
+    width:700px;
+}
+
+.footer {
+    height:100px;
+    background-color:lightslategray;
+    text-align: center;
+}
+
+#foot {
+    margin-top:50px;
+}
